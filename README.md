@@ -10,6 +10,6 @@ A 1100mAh power Bank for vive trackers.
 
 The build is meant to be build up with a reflow oven / PNP (Pick and Place) or with good soldering techniques.
 
-I do not take any responsibility for any harm and or interference with other electronics whatsoever.
+I do not take any responsibility for any harm that it may cause.
 I expect some knowledge of electronics beforehand before building the power bank up.
 A LiPo is used in this project that could cause harm.
